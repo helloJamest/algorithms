@@ -24,12 +24,11 @@ public:
 	*/
 	int findFirstBadVersion(int n) {
 		// write your code here
-		SVNRepo s = SVNRepo();
 		int lo = 1;
 		int hi = n;
 		while (lo<hi) {
 			int mid = lo + ((hi - lo) >> 1);
-			if (s.isBadVersion(mid)) {
+			if (SVNRepo::isBadVersion(mid)) {
 				hi = mid;
 			}
 			else {
