@@ -1,6 +1,6 @@
 // Source : https://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array/description
 // Author : Jamest
-// Date   : 2019-03-30
+// Date   : 2019-03-31
 
 
 #include <iostream>
