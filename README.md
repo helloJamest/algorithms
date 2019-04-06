@@ -16,7 +16,7 @@ LeetCode and LintCode coding
 |6|[sqrt(x)](https://www.lintcode.com/problem/sqrtx/description) | [C++](./leet_lintcode/cpp/week1/lint141_Sqrt(x)/sqrt.cpp)|Easy|
 |7|[reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description) | [C++](./leet_lintcode/cpp/week2/lint35_Reverse_Linked_List/reverse.cpp)|Easy|
 |8|[Linked List Cycle II](https://www.lintcode.com/problem/linked-list-cycle-ii/description) | [C++](./leet_lintcode/cpp/week2/lint103_Linked_List_Cycle_II/detectCycle.cpp)|Hard|
-|9|[Majority Element](https://www.lintcode.com/problem/majority-element/description) | [C++](./leet_lintcode/cpp/week2/.lint_46_Majority_Elementi/majorityNumbercpp)|Easy|
+|9|[Majority Element](https://www.lintcode.com/problem/majority-element/description) | [C++](./leet_lintcode/cpp/week2/lint_46_Majority_Elementi/majorityNumbercpp)|Easy|
 
 
 
