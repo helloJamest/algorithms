@@ -17,7 +17,7 @@ LeetCode and LintCode coding
 |7|[reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description) | [C++](./leet_lintcode/cpp/week2/lint35_Reverse_Linked_List/reverse.cpp)|Easy|
 |8|[Linked List Cycle II](https://www.lintcode.com/problem/linked-list-cycle-ii/description) | [C++](./leet_lintcode/cpp/week2/lint103_Linked_List_Cycle_II/detectCycle.cpp)|Hard|
 |9|[Majority Element](https://www.lintcode.com/problem/majority-element/description) | [C++](./leet_lintcode/cpp/week2/lint_46_Majority_Element/majorityNumber.cpp)|Easy|
-|10|[Majority Element](https://www.lintcode.com/problem/sort-integers-ii/description) | [C++](./leet_lintcode/cpp/week2/lint464_Sort_Integers_II/sort.cpp)|Easy|
+|10|[Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/description) | [C++](./leet_lintcode/cpp/week2/lint464_Sort_Integers_II/sort.cpp)|Easy|
 
 
 
