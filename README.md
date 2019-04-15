@@ -20,6 +20,7 @@ LeetCode and LintCode coding
 |10|[Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/description) | [C++](./leet_lintcode/cpp/week2/lint464_Sort_Integers_II/sort.cpp)|Easy|
 |11|[Longest Increasing Subsequenc](https://www.lintcode.com/problem/longest-increasing-subsequence/description) | [C++](./leet_lintcode/cpp/week2/lint76_Longest_Increasing_Subsequence/longestIncreasingSubsequence.cpp)|Medium|
 |12|[Longest Consecutive Sequence](https://www.lintcode.com/problem/longest-consecutive-sequence/description) | [C++](./leet_lintcode/cpp/week2/lint124_Longest_Consecutive_Sequence/longestConsecutive.cpp)|Medium|
+|13|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description) | [C++](./leet_lintcode/cpp/week3/lint41_Maximum_Subarray/maxSubArray.cpp)|Easy|
 
 
 
